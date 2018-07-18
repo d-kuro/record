@@ -14,4 +14,5 @@
 
 | name | event date |
 | ---- | ---------- |
-| example(link) | yyyyMMdd |
+| [golang.tokyo #16](./study_group/20180713_golang_tokyo.md) | 20180713 |
+| [[AWS] Meguro.dev LT大会](./study_group/20180717_meguro_dev.md) | 20180717 |
