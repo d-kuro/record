@@ -2,11 +2,12 @@
 
 知見を貯めるリポジトリ
 
+勉強会の参加レポートやブログに書くまでもないメモだったりをローカルの肥やしにすることなく公開しましょう。書いたものは GitHub Page にて公開されます。
+
 > バーベナの花言葉 : 勤勉
 
-[GitHub Pages link](https://d-kuro.github.io/verbena/)
-
-[Manual](./manual/README.md)
+* [GitHub Pages link](https://d-kuro.github.io/verbena/)
+* [Manual](./manual/README.md)
 
 ## Index
 
