@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# Verbena
 
-You can use the [editor on GitHub](https://github.com/d-kuro/verbena/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+知見を貯めるリポジトリ
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+勉強会の参加レポートやブログに書くまでもないメモだったりをローカルの肥やしにすることなく公開しましょう。書いたものは GitHub Page にて公開されます。
 
-### Markdown
+> バーベナの花言葉 : 勤勉
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [GitHub Pages link](https://d-kuro.github.io/verbena/)
+* [Manual](./manual/README.md)
 
-```markdown
-Syntax highlighted code block
+## Index
 
-# Header 1
-## Header 2
-### Header 3
+### 勉強会
 
-- Bulleted
-- List
+参加した勉強会についてのメモ
 
-1. Numbered
-2. List
+| name | date | contributor |
+| ---- | ---- | ----------- |
+| [golang.tokyo #16](./study_group/20180713_golang_tokyo.md) | 20180713 | [d-kuro](https://github.com/d-kuro) |
+| [[AWS] Meguro.dev LT大会](./study_group/20180717_meguro_dev.md) | 20180717 | [d-kuro](https://github.com/d-kuro) |
 
-**Bold** and _Italic_ and `Code` text
+### blog
 
-[Link](url) and ![Image](src)
-```
+書いたブログや記事など
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+| name | date | contributor |
+| ---- | ---- | ----------- |
+| [クラスメソッドの事業開発部にJOINした黒澤です｜クラスメソッドブログ](https://dev.classmethod.jp/etc/kurosawa-join-20180301/) | 20180301 | [d-kuro](https://github.com/d-kuro) |
+| [\[レポート\] 『きれいなcommit, pull requestを知りたい/作りたい方のためのgit勉強会』に参加してきました｜クラスメソッドブログ](https://dev.classmethod.jp/study_meeting/git-workshop-20180327/) | 20180403 | [d-kuro](https://github.com/d-kuro) |
+| [【レポート】Amazon Aurora Under the Hood #AWSSummit｜クラスメソッドブログ](https://dev.classmethod.jp/cloud/aws/amazon-aurora-under-the-hood-awssummit/) | 20180531 | [d-kuro](https://github.com/d-kuro) |
+| [\[レポート\] GitHub Satellite Tokyo #GitHubSatelliteTokyo｜クラスメソッドブログ](https://dev.classmethod.jp/etc/github-satellite-tokyo-2018/) | 20180612 | [d-kuro](https://github.com/d-kuro) |
+| [\[レポート\] What’s new with GitHub ~ GitHub as a platform #GitHubSatelliteTokyo｜クラスメソッドブログ](https://dev.classmethod.jp/event/whats-new-with-github/) | 20180612 | [d-kuro](https://github.com/d-kuro) |
+| [\[レポート\] GitHub でポータルサイトドキュメントを運用して幸せになる話 #GitHubSatelliteTokyo｜クラスメソッドブログ](https://dev.classmethod.jp/event/github-lt-tournament-githubpages/) | 20180613 | [d-kuro](https://github.com/d-kuro) |
+| [\[レポート\] GitHub as an Authenticator #GitHubSatelliteTokyo｜クラスメソッドブログ](https://dev.classmethod.jp/event/github-as-an-authenticator/) | 20180613 | [d-kuro](https://github.com/d-kuro) |
+| [Git hooks を使って push を行うときに確認を出し誤 push を防止する｜クラスメソッドブログ](https://dev.classmethod.jp/tool/git/git-hook-pre-push/) | 20180707 | [d-kuro](https://github.com/d-kuro) |
 
-### Jekyll Themes
+## Q & A
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/d-kuro/verbena/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Q. Verbena ってなんなの？
+* A. このリポジトリ作った 07/18 の誕生花らしい。花言葉がちょうどよかった。
