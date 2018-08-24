@@ -2,7 +2,11 @@
 
 [Google Cloud Next 2018 Extended App & Infra Day](https://gcpug-tokyo.connpass.com/event/94417/)
 
+[Youtube](https://www.youtube.com/watch?v=oPlP_Fa3QJA)
+
 ## GCP Database の世代交代
+
+[スライド](https://docs.google.com/presentation/d/11Jp1gt-n8LxVgrHBRy1ym6iJMsKww-mit1A00IS-oHk/edit#slide=id.g3cf2532adc_0_136)
 
 ### GCP Database の系譜
 
