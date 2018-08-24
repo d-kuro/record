@@ -21,6 +21,7 @@
 | [[AWS] Meguro.dev LT大会](./study_group/20180717_meguro_dev.md) | 20180717 | [d-kuro](https://github.com/d-kuro) |
 | [JAWS-UG コンテナ支部 入門編 #5 ようこそ Fargate](./study_group/20180730_jawsug_container.md)| 20180730 | [d-kuro](https://github.com/d-kuro) |
 | [夏の AWS Fargate & Amazon ECS/EKS 祭り](./study_group/20180803_aws_seminar_fargate_eks.md)| 20180803 | [d-kuro](https://github.com/d-kuro) |
+| [Google Cloud Next 2018 Extended App & Infra Day](./study_group/20180824_google_cloud_next2018_extended_appandInfra_day.md)| 20180824 | [d-kuro](https://github.com/d-kuro) |
 
 ### blog
 
