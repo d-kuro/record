@@ -139,6 +139,8 @@
 
 ## アプリ, インフラ, そして運用についての究極の疑問の話
 
+[スライド](https://speakerdeck.com/kumakumakkk/apuri-inhura-sositeyun-yong-nituitefalsejiu-ji-falseyi-wen-falsehua-to-nextfalsefeng-jing-woshao-jie)
+
 ### 本当にマイクロサービスは最高なのか
 
 * 運用が複雑に
