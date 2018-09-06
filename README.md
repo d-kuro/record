@@ -22,6 +22,7 @@
 | [JAWS-UG コンテナ支部 入門編 #5 ようこそ Fargate](./study_group/20180730_jawsug_container.md)| 20180730 | [d-kuro](https://github.com/d-kuro) |
 | [夏の AWS Fargate & Amazon ECS/EKS 祭り](./study_group/20180803_aws_seminar_fargate_eks.md)| 20180803 | [d-kuro](https://github.com/d-kuro) |
 | [Google Cloud Next 2018 Extended App & Infra Day](./study_group/20180824_google_cloud_next2018_extended_appandInfra_day.md)| 20180824 | [d-kuro](https://github.com/d-kuro) |
+| [GDG DevFest Tokyo 2018 Kubeflowで何ができて何ができないのか](./study_group/20180901_gdg_dev_fest_kubeflow.md) | 20180901 | [d-kuro](https://github.com/d-kuro) |
 | [GDG DevFest Tokyo 2018 GCP Compute 概要と選定](./study_group/20180901_gdg_dev_fest_gcp_compute.md) | 20180901 | [d-kuro](https://github.com/d-kuro) |
 | [GDG DevFest Tokyo 2018 Container](./study_group/20180901_gdg_dev_fest_container.md) | 20180901 | [d-kuro](https://github.com/d-kuro) |
 | [GCPUG Tokyo Spanner Day September 2018](./study_group/20180905_gcpug_spanner.md) | 20180905 | [d-kuro](https://github.com/d-kuro) |

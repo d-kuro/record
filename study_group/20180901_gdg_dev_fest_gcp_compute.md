@@ -1,6 +1,6 @@
 # GCP Compute 概要と選定
 
-[スライド](https://speakerdeck.com/vvakame/devfest-tokyo-2018)
+* [スライド](https://speakerdeck.com/vvakame/devfest-tokyo-2018)
 
 ## クラウドの心得
 
