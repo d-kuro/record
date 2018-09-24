@@ -31,6 +31,13 @@
   * [GDG DevFest Tokyo 2018 Container](./study_group/20180901_gdg_dev_fest_container.md)
 * 20180905
   * [GCPUG Tokyo Spanner Day September 2018](./study_group/20180905_gcpug_spanner.md)
+* 20180920
+  * [CASH を支える Google Kubernetes Engine](./study_group/20180920_cach_gke.md)
+  * [Cloud Functions ではじめよう、サーバーレスアプリケーション開発](./study_group/20180920_cloud_functions.md)
+  * [フルマネージド データベースサービス "Cloud SQL" 徹底活用法](./study_group/20180920_cloud_sql.md)
+  * [実践 Infrastructure as Code ハンズオン](./study_group/20180920_iac.md)
+  * [Kubernetes と Serverless を利用した開発](./study_group/20180920_kubernetes_serverless.md)
+  * [地球規模でスケール可能なサービスの実現について 〜 Cloud Load Balancing と Istio の利用 〜](./study_group/20180920_load_barancer.md)
 
 ### blog
 
