@@ -64,7 +64,7 @@
 
 * 20180918
   * [Gopher道場#3 卒業式＆LT大会](https://mercari.connpass.com/event/101178/)
-  * [Go Cloud を触ってみる / gopher-dojo-lt](https://speakerdeck.com/daikurosawa/gopher-dojo-lt) 
+  * [Go Cloud を触ってみる / gopher-dojo-lt](https://speakerdeck.com/daikurosawa/gopher-dojo-lt)
 
 ## Q & A
 
