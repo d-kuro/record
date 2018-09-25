@@ -39,7 +39,7 @@
   * [Kubernetes と Serverless を利用した開発](./study_group/20180920_kubernetes_serverless.md)
   * [地球規模でスケール可能なサービスの実現について 〜 Cloud Load Balancing と Istio の利用 〜](./study_group/20180920_load_barancer.md)
 
-### blog
+### Blog
 
 書いたブログや記事など
 
@@ -65,6 +65,10 @@
 * 20180918
   * [Gopher道場#3 卒業式＆LT大会](https://mercari.connpass.com/event/101178/)
   * [Go Cloud を触ってみる / gopher-dojo-lt](https://speakerdeck.com/daikurosawa/gopher-dojo-lt)
+
+### Book
+
+* [Kubernetes完全ガイド](./book/kubernetes_complete_guide/README.md)
 
 ## Q & A
 
