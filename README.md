@@ -59,6 +59,8 @@
   * [Git hooks を使って push を行うときに確認を出し誤 push を防止する｜クラスメソッドブログ](https://dev.classmethod.jp/tool/git/git-hook-pre-push/)
 * 20180919
   * [Gopher道場 #3 参加レポート / 「Go Cloud を触ってみる」というテーマで LT をしました ｜ Developers.IO](https://dev.classmethod.jp/go/gopher-dojo/)
+* 20181002
+  * [無料で使える Go 言語の CI サービス『GolangCI』を使ってみる ｜ Developers.IO](https://dev.classmethod.jp/go/golangci/)
 
 ### 登壇
 
