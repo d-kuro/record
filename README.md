@@ -61,6 +61,12 @@
   * [Gopher道場 #3 参加レポート / 「Go Cloud を触ってみる」というテーマで LT をしました ｜ Developers.IO](https://dev.classmethod.jp/go/gopher-dojo/)
 * 20181002
   * [無料で使える Go 言語の CI サービス『GolangCI』を使ってみる ｜ Developers.IO](https://dev.classmethod.jp/go/golangci/)
+* 20181004
+  * [【Mercari Tech Conf 2018 レポート】メルペイの進める決済処理のマイクロサービス化についてのセッション『どうして僕らは決済処理をマイクロサービス化しようとしているのか』#mtc18 ｜ DevelopersIO](https://dev.classmethod.jp/event/merpay-microservices-mtc18/)
+  * [【Mercari Tech Conf 2018 レポート】メルカリのマイクロサービスプラットフォームチームの取り組みについてのセッション『Microservices Platform at Mercari』#mtc18 ｜ DevelopersIO](https://dev.classmethod.jp/event/mercari-microservices-platform-mtc18/)
+* 20181005
+  * [【Mercari Tech Conf 2018 レポート】メルカリの出品機能のモノリスからマイクロサービスへの移行についてのセッション『Listing Service: モノリスからマイクロサービスへ』#mtc18 ｜ DevelopersIO](https://dev.classmethod.jp/event/mercari-listing-from-monolith-to-microservices-mtc18/)
+  * [【Mercari Tech Conf 2018 レポート】メルカリ Web の新アーキテクチャについてのセッション『Web Application as a Microservice』#mtc18 ｜ DevelopersIO](https://dev.classmethod.jp/event/mercari-web-microservice-mtc18/)
 
 ### 登壇
 
