@@ -38,6 +38,8 @@
   * [実践 Infrastructure as Code ハンズオン](./study_group/20180920_iac.md)
   * [Kubernetes と Serverless を利用した開発](./study_group/20180920_kubernetes_serverless.md)
   * [地球規模でスケール可能なサービスの実現について 〜 Cloud Load Balancing と Istio の利用 〜](./study_group/20180920_load_barancer.md)
+* 20181003
+  * [【課外学習 I】Gopher道場](./study_group/20181003_gopherdojo_ddd.md)
 
 ### Blog
 
