@@ -80,6 +80,13 @@
 
 * [Kubernetes完全ガイド](./book/kubernetes_complete_guide/README.md)
 
+### Gist
+
+* [コンフリクトしたときの --theirs と --ours](https://gist.github.com/d-kuro/08ec0964107ae4c8bc074ed8162b63cc)
+* [zsh に移行した](https://gist.github.com/d-kuro/01513087559ac4c3d305f6485c58b7ad)
+* [zsh で git コマンドの補完を有効にする](https://gist.github.com/d-kuro/352498c993c51831b25963be62074afa)
+* [kubectl で補完を有効にする](https://gist.github.com/d-kuro/605a44ebd1d4a28ecf318e9d2371645f)
+
 ## Q & A
 
 * Q. Verbena ってなんなの？
