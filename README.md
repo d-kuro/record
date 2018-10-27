@@ -86,6 +86,8 @@
 * [zsh に移行した](https://gist.github.com/d-kuro/01513087559ac4c3d305f6485c58b7ad)
 * [zsh で git コマンドの補完を有効にする](https://gist.github.com/d-kuro/352498c993c51831b25963be62074afa)
 * [kubectl で補完を有効にする](https://gist.github.com/d-kuro/605a44ebd1d4a28ecf318e9d2371645f)
+* [Elasticsearch で Index の一覧を見る](https://gist.github.com/d-kuro/d72b9331ea93b061542096e72c2a2845)
+* [CircleCI の GitHub Checks API 対応所感](https://gist.github.com/d-kuro/19651e83549fe80e9d445e9d55b88af4)
 
 ## Q & A
 
