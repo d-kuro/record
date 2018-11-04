@@ -88,6 +88,8 @@
 * [kubectl で補完を有効にする](https://gist.github.com/d-kuro/605a44ebd1d4a28ecf318e9d2371645f)
 * [Elasticsearch で Index の一覧を見る](https://gist.github.com/d-kuro/d72b9331ea93b061542096e72c2a2845)
 * [CircleCI の GitHub Checks API 対応所感](https://gist.github.com/d-kuro/19651e83549fe80e9d445e9d55b88af4)
+* [DynamoDB Local Docker image setting heap size](https://gist.github.com/d-kuro/07992d7a149dd62a2be24cf9d23e8033)
+* [Go 言語のセットアップをする](https://gist.github.com/d-kuro/82a9305abb3b1b89193997e6c9e0f59c)
 
 ## Q & A
 
