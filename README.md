@@ -40,6 +40,8 @@
   * [地球規模でスケール可能なサービスの実現について 〜 Cloud Load Balancing と Istio の利用 〜](./study_group/20180920_load_barancer.md)
 * 20181003
   * [【課外学習 I】Gopher道場](./study_group/20181003_gopherdojo_ddd.md)
+* 20181024
+  * [GitHub Universe アフターイベント in Tokyo](https://gist.github.com/d-kuro/e6272d8f27e61b6fa341c1d6499370c2)
 
 ### Blog
 
