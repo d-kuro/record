@@ -42,8 +42,12 @@
   * [【課外学習 I】Gopher道場](./study_group/20181003_gopherdojo_ddd.md)
 * 20181024
   * [GitHub Universe アフターイベント in Tokyo](https://gist.github.com/d-kuro/e6272d8f27e61b6fa341c1d6499370c2)
+* 20181108
+  * [Kubernetes Meetup Tokyo #14](https://gist.github.com/d-kuro/ae1375692cb13667b62e980c588c4f0c)
 * 20181113
   * [golang.tokyo #19](https://gist.github.com/d-kuro/7e6321b5285f7cd947c62c21b81a81b4)
+* 20181125
+  * [Go Conference 2018 Autumn](https://gist.github.com/d-kuro/4378662f202c2fd991bb19463d2a8664)
 * 20181206
   * [Google Cloud で実現する DevOps](https://gist.github.com/d-kuro/6b45a772b2bad973bd5bdf0f7b8a22e8)
 
