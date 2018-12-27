@@ -48,6 +48,10 @@
   * [Go Conference 2018 Autumn](https://gist.github.com/d-kuro/4378662f202c2fd991bb19463d2a8664)
 * 20181206
   * [Google Cloud で実現する DevOps](https://gist.github.com/d-kuro/6b45a772b2bad973bd5bdf0f7b8a22e8)
+* 20181218
+  * [Container X mas Party with flexy](https://gist.github.com/d-kuro/2f1ea208eff27c7e10a683cde28f34fc)
+* 20181220
+  * [OchaCafe#1 - Kubernetesで作るコンテナベースCI☆CDの夕べ](https://gist.github.com/d-kuro/e5fe408d8fb8af643d385f20ad110d16)
 
 ### Blog
 
@@ -86,10 +90,6 @@
 * 20181214
   * [Introduction gRPC](https://speakerdeck.com/daikurosawa/introduction-grpc)
 
-### Book
-
-* [Kubernetes完全ガイド](./book/kubernetes_complete_guide/README.md)
-
 ### Gist
 
 * [コンフリクトしたときの --theirs と --ours](https://gist.github.com/d-kuro/08ec0964107ae4c8bc074ed8162b63cc)
@@ -100,3 +100,4 @@
 * [CircleCI の GitHub Checks API 対応所感](https://gist.github.com/d-kuro/19651e83549fe80e9d445e9d55b88af4)
 * [DynamoDB Local Docker image setting heap size](https://gist.github.com/d-kuro/07992d7a149dd62a2be24cf9d23e8033)
 * [Go 言語のセットアップをする](https://gist.github.com/d-kuro/82a9305abb3b1b89193997e6c9e0f59c)
+* [2018年ポエム](https://gist.github.com/d-kuro/13e7d6cee08e4e7da1969836f5544591)
