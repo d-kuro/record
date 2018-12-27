@@ -1,10 +1,8 @@
-# Verbena
+# record
 
 知見を貯めるリポジトリ
 
 勉強会の参加レポートやブログに書くまでもないメモだったりをローカルの肥やしにすることなく公開しましょう。書いたものは GitHub Page にて公開されます。
-
-> バーベナの花言葉 : 勤勉
 
 * [GitHub Pages link](https://d-kuro.github.io/verbena/)
 * [Manual](./manual/README.md)
@@ -102,8 +100,3 @@
 * [CircleCI の GitHub Checks API 対応所感](https://gist.github.com/d-kuro/19651e83549fe80e9d445e9d55b88af4)
 * [DynamoDB Local Docker image setting heap size](https://gist.github.com/d-kuro/07992d7a149dd62a2be24cf9d23e8033)
 * [Go 言語のセットアップをする](https://gist.github.com/d-kuro/82a9305abb3b1b89193997e6c9e0f59c)
-
-## Q & A
-
-* Q. Verbena ってなんなの？
-* A. このリポジトリ作った 07/18 の誕生花らしい。花言葉がちょうどよかった。
