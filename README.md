@@ -101,4 +101,4 @@
 * [DynamoDB Local Docker image setting heap size](https://gist.github.com/d-kuro/07992d7a149dd62a2be24cf9d23e8033)
 * [Go 言語のセットアップをする](https://gist.github.com/d-kuro/82a9305abb3b1b89193997e6c9e0f59c)
 * [2018年ポエム](https://gist.github.com/d-kuro/13e7d6cee08e4e7da1969836f5544591)
-* [冬休みの進捗](https://gist.github.com/d-kuro/9bb545b4a1c735d852e9a1fb29ba3c5b)
+* [2018-2019 冬休みの進捗](https://gist.github.com/d-kuro/9bb545b4a1c735d852e9a1fb29ba3c5b)
