@@ -81,6 +81,8 @@
 * 20181005
   * [【Mercari Tech Conf 2018 レポート】メルカリの出品機能のモノリスからマイクロサービスへの移行についてのセッション『Listing Service: モノリスからマイクロサービスへ』#mtc18 ｜ DevelopersIO](https://dev.classmethod.jp/event/mercari-listing-from-monolith-to-microservices-mtc18/)
   * [【Mercari Tech Conf 2018 レポート】メルカリ Web の新アーキテクチャについてのセッション『Web Application as a Microservice』#mtc18 ｜ DevelopersIO](https://dev.classmethod.jp/event/mercari-web-microservice-mtc18/)
+* 20181229
+  * [GitHub Actions で Go言語の lint と test を実行する ｜ DevelopersIO](https://dev.classmethod.jp/etc/github-actions-golang/)
 
 ### 登壇
 
