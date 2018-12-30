@@ -9,7 +9,7 @@
 
 ## Index
 
-### 勉強会
+### Study group
 
 参加した勉強会についてのメモ
 
@@ -84,7 +84,7 @@
 * 20181229
   * [GitHub Actions で Go言語の lint と test を実行する ｜ DevelopersIO](https://dev.classmethod.jp/etc/github-actions-golang/)
 
-### 登壇
+### Speaker
 
 * 20180918
   * [Gopher道場#3 卒業式＆LT大会](https://mercari.connpass.com/event/101178/)
