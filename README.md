@@ -104,3 +104,4 @@
 * [Go 言語のセットアップをする](https://gist.github.com/d-kuro/82a9305abb3b1b89193997e6c9e0f59c)
 * [2018年ポエム](https://gist.github.com/d-kuro/13e7d6cee08e4e7da1969836f5544591)
 * [2018-2019 冬休みの進捗](https://gist.github.com/d-kuro/9bb545b4a1c735d852e9a1fb29ba3c5b)
+* [iTerm2 でフルスクリーンで起動しているアプリにターミナルを重ねる](https://gist.github.com/d-kuro/551d98f9d4a28f61b3e8111adc082074)
