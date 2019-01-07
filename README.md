@@ -114,7 +114,7 @@
 
 * [Elasticsearch で Index の一覧を見る](https://gist.github.com/d-kuro/d72b9331ea93b061542096e72c2a2845)
 
-#### tool
+#### Tool
 
 * [コンフリクトしたときの --theirs と --ours](https://gist.github.com/d-kuro/08ec0964107ae4c8bc074ed8162b63cc)
 * [zsh に移行した](https://gist.github.com/d-kuro/01513087559ac4c3d305f6485c58b7ad)
@@ -122,7 +122,7 @@
 * [iTerm2 でフルスクリーンで起動しているアプリにターミナルを重ねる](https://gist.github.com/d-kuro/551d98f9d4a28f61b3e8111adc082074)
 * [ghq で Git リポジトリと go get したやつをいい感じに管理する](https://gist.github.com/d-kuro/f4453b93ab5e9ff60be351d7d49b1476)
 
-#### ポエム
+#### Poem
 
 * [2018年ポエム](https://gist.github.com/d-kuro/13e7d6cee08e4e7da1969836f5544591)
 * [2018-2019 冬休みの進捗](https://gist.github.com/d-kuro/9bb545b4a1c735d852e9a1fb29ba3c5b)
