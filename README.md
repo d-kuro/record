@@ -94,14 +94,35 @@
 
 ### Gist
 
+#### Kubernetes
+
+* [kubectl で補完を有効にする](https://gist.github.com/d-kuro/605a44ebd1d4a28ecf318e9d2371645f)
+
+#### Golang
+
+* [Go 言語のセットアップをする](https://gist.github.com/d-kuro/82a9305abb3b1b89193997e6c9e0f59c)
+
+#### AWS
+
+* [DynamoDB Local Docker image setting heap size](https://gist.github.com/d-kuro/07992d7a149dd62a2be24cf9d23e8033)
+
+#### CircleCI
+
+* [CircleCI の GitHub Checks API 対応所感](https://gist.github.com/d-kuro/19651e83549fe80e9d445e9d55b88af4)
+
+#### Elasticsearch
+
+* [Elasticsearch で Index の一覧を見る](https://gist.github.com/d-kuro/d72b9331ea93b061542096e72c2a2845)
+
+#### tool
+
 * [コンフリクトしたときの --theirs と --ours](https://gist.github.com/d-kuro/08ec0964107ae4c8bc074ed8162b63cc)
 * [zsh に移行した](https://gist.github.com/d-kuro/01513087559ac4c3d305f6485c58b7ad)
 * [zsh で git コマンドの補完を有効にする](https://gist.github.com/d-kuro/352498c993c51831b25963be62074afa)
-* [kubectl で補完を有効にする](https://gist.github.com/d-kuro/605a44ebd1d4a28ecf318e9d2371645f)
-* [Elasticsearch で Index の一覧を見る](https://gist.github.com/d-kuro/d72b9331ea93b061542096e72c2a2845)
-* [CircleCI の GitHub Checks API 対応所感](https://gist.github.com/d-kuro/19651e83549fe80e9d445e9d55b88af4)
-* [DynamoDB Local Docker image setting heap size](https://gist.github.com/d-kuro/07992d7a149dd62a2be24cf9d23e8033)
-* [Go 言語のセットアップをする](https://gist.github.com/d-kuro/82a9305abb3b1b89193997e6c9e0f59c)
+* [iTerm2 でフルスクリーンで起動しているアプリにターミナルを重ねる](https://gist.github.com/d-kuro/551d98f9d4a28f61b3e8111adc082074)
+* [ghq で Git リポジトリと go get したやつをいい感じに管理する](https://gist.github.com/d-kuro/f4453b93ab5e9ff60be351d7d49b1476)
+
+#### ポエム
+
 * [2018年ポエム](https://gist.github.com/d-kuro/13e7d6cee08e4e7da1969836f5544591)
 * [2018-2019 冬休みの進捗](https://gist.github.com/d-kuro/9bb545b4a1c735d852e9a1fb29ba3c5b)
-* [iTerm2 でフルスクリーンで起動しているアプリにターミナルを重ねる](https://gist.github.com/d-kuro/551d98f9d4a28f61b3e8111adc082074)
