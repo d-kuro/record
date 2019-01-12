@@ -52,6 +52,8 @@
   * [OchaCafe#1 - Kubernetesで作るコンテナベースCI☆CDの夕べ](https://gist.github.com/d-kuro/e5fe408d8fb8af643d385f20ad110d16)
 * 20190108
   * [mercari.go #5](https://gist.github.com/d-kuro/fe4de3d5bf50d7fe3461bbf9bf80413c)
+* 20190111
+  * [k8s source code reading #0](https://gist.github.com/d-kuro/640e4070e3e958f7f6847df7b986f679)
 
 ## Blog
 
