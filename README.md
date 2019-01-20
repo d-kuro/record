@@ -54,6 +54,8 @@
   * [mercari.go #5](https://gist.github.com/d-kuro/fe4de3d5bf50d7fe3461bbf9bf80413c)
 * 20190111
   * [k8s source code reading #0](https://gist.github.com/d-kuro/640e4070e3e958f7f6847df7b986f679)
+* 20190115
+  * [GCPUG Tokyo Stackdriver Day January 2019](https://gist.github.com/d-kuro/4181918ee5b2ae611ef4a48c88f5843b)
 
 ## Blog
 
@@ -101,6 +103,7 @@ Gist 置き場
 ### Kubernetes
 
 * [kubectl で補完を有効にする](https://gist.github.com/d-kuro/605a44ebd1d4a28ecf318e9d2371645f)
+* [Raft のアニメーションがめっちゃよかったというメモ](https://gist.github.com/d-kuro/f78647d2c953a65f094afed915f42fd0)
 
 ### Golang
 
@@ -125,6 +128,8 @@ Gist 置き場
 * [zsh で git コマンドの補完を有効にする](https://gist.github.com/d-kuro/352498c993c51831b25963be62074afa)
 * [iTerm2 でフルスクリーンで起動しているアプリにターミナルを重ねる](https://gist.github.com/d-kuro/551d98f9d4a28f61b3e8111adc082074)
 * [ghq で Git リポジトリと go get したやつをいい感じに管理する](https://gist.github.com/d-kuro/f4453b93ab5e9ff60be351d7d49b1476)
+* [RSS まとめ](https://gist.github.com/d-kuro/839dc06dcb4d8d3368b4634f96a4e0d0)
+* [fish 導入](https://gist.github.com/d-kuro/d0c5cfce385f3959bc77102f04a5a8f1)
 
 ### Poem
 
