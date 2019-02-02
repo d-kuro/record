@@ -95,6 +95,9 @@
   * [Go Cloud を触ってみる / gopher-dojo-lt](https://speakerdeck.com/daikurosawa/gopher-dojo-lt)
 * 20181214
   * [Introduction gRPC](https://speakerdeck.com/daikurosawa/introduction-grpc)
+* 20180131
+  * [Go(Un)Conference（Goあんこ）LT大会 5kg](https://gounconference.connpass.com/event/112942/)
+  * [GolangCI を使ってコードの品質を保ちながら快適な Golang 生活を送る話 #gounco / GolangCI - Speaker Deck](https://speakerdeck.com/daikurosawa/golangci)
 
 ## Gist
 
