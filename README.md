@@ -133,6 +133,7 @@ Gist 置き場
 * [ghq で Git リポジトリと go get したやつをいい感じに管理する](https://gist.github.com/d-kuro/f4453b93ab5e9ff60be351d7d49b1476)
 * [RSS まとめ](https://gist.github.com/d-kuro/839dc06dcb4d8d3368b4634f96a4e0d0)
 * [fish 導入](https://gist.github.com/d-kuro/d0c5cfce385f3959bc77102f04a5a8f1)
+* [macOS でキーリピート早くする](https://gist.github.com/d-kuro/5466c4b19a34b56ea0ff7725eab623d7)
 
 ### Poem
 
