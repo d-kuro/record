@@ -56,6 +56,10 @@
   * [k8s source code reading #0](https://gist.github.com/d-kuro/640e4070e3e958f7f6847df7b986f679)
 * 20190115
   * [GCPUG Tokyo Stackdriver Day January 2019](https://gist.github.com/d-kuro/4181918ee5b2ae611ef4a48c88f5843b)
+* 20190128
+  * [golang.tokyo #21](https://gist.github.com/d-kuro/0113f27705c37e6415a01244c4bc9757)
+* 20190215
+  * [Go 1.12 Release Party in Tokyo w/ Fukuoka&Umeda](https://gist.github.com/d-kuro/7d5de621f90f9cc790af475375ea93a6)
 
 ## Blog
 
