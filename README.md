@@ -115,6 +115,7 @@ Gist 置き場
 ### Golang
 
 * [Go 言語のセットアップをする](https://gist.github.com/d-kuro/82a9305abb3b1b89193997e6c9e0f59c)
+* [Go 1.11.4 以上で Go Modules を使って依存関係解決しようとしたら checksum mismatch](https://gist.github.com/d-kuro/3e78cba6b68d52c01b30a3b2b73b8285)
 
 ### AWS
 
