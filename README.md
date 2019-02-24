@@ -58,8 +58,16 @@
   * [GCPUG Tokyo Stackdriver Day January 2019](https://gist.github.com/d-kuro/4181918ee5b2ae611ef4a48c88f5843b)
 * 20190128
   * [golang.tokyo #21](https://gist.github.com/d-kuro/0113f27705c37e6415a01244c4bc9757)
+* 20190208
+  * [k8s source code reading #1](https://gist.github.com/d-kuro/e641c11e4b899df4db175791ad4e8855)
+  * [元 HackMD](https://hackmd.io/dUbHc1ytRMy8Zp_eeyPqNg)
 * 20190215
   * [Go 1.12 Release Party in Tokyo w/ Fukuoka&Umeda](https://gist.github.com/d-kuro/7d5de621f90f9cc790af475375ea93a6)
+* 20190219
+  * [Kubernetes Meetup Tokyo #16](https://gist.github.com/d-kuro/638c39e9c304a34e9ce3fa8806a49c4c)
+* 20190222
+  * [k8s source code reading #2](https://gist.github.com/d-kuro/4c6f8e8208f9bc7c7afd865465ce6854)
+  * [元 HackMD](https://hackmd.io/Ahsu5Px-QHKqoo3YBT9EWQ)
 
 ## Blog
 
