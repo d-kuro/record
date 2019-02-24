@@ -103,6 +103,11 @@
   * [Go(Un)Conference（Goあんこ）LT大会 5kg](https://gounconference.connpass.com/event/112942/)
   * [GolangCI を使ってコードの品質を保ちながら快適な Golang 生活を送る話 #gounco / GolangCI - Speaker Deck](https://speakerdeck.com/daikurosawa/golangci)
 
+## Medium
+
+* [Go 1.11.4 以上で Go Modules を使って依存関係解決しようとしたら checksum mismatch](https://medium.com/@ponde_m/go-1-11-4-%E4%BB%A5%E4%B8%8A%E3%81%A7-go-modules-%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E4%BE%9D%E5%AD%98%E9%96%A2%E4%BF%82%E8%A7%A3%E6%B1%BA%E3%81%97%E3%82%88%E3%81%86%E3%81%A8%E3%81%97%E3%81%9F%E3%82%89-checksum-mismatch-c5528eaebd72)
+* [Golang で lint と test をしたい時の CircleCI の config.yml](https://medium.com/@ponde_m/golang-%E3%81%A7-lint-%E3%81%A8-test-%E3%82%92%E3%81%97%E3%81%9F%E3%81%84%E6%99%82%E3%81%AE-circleci-%E3%81%AE-config-yml-c9e85f9f14d5)
+
 ## Gist
 
 Gist 置き場
