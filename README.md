@@ -106,6 +106,9 @@
   * [元 HackMD](https://hackmd.io/Ahsu5Px-QHKqoo3YBT9EWQ)
 * 20190301
   * [LINE.go #1](https://gist.github.com/d-kuro/93d54f70a605b26216b5653445412f12)
+* 20190308
+  * [k8s source code reading #3](https://k8s-code-reading.connpass.com/event/117941/)
+  * [これ書いてた(WIP)](https://medium.com/@ponde_m/kubernetes-cronjob-33b66ad73f71)
 
 ## Gist
 
