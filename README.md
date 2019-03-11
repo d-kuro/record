@@ -7,6 +7,42 @@
 * [GitHub Pages link](https://d-kuro.github.io/record/)
 * [Manual](./manual/README.md)
 
+## Medium
+
+* [Go 1.11.4 以上で Go Modules を使って依存関係解決しようとしたら checksum mismatch](https://medium.com/@ponde_m/go-1-11-4-%E4%BB%A5%E4%B8%8A%E3%81%A7-go-modules-%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E4%BE%9D%E5%AD%98%E9%96%A2%E4%BF%82%E8%A7%A3%E6%B1%BA%E3%81%97%E3%82%88%E3%81%86%E3%81%A8%E3%81%97%E3%81%9F%E3%82%89-checksum-mismatch-c5528eaebd72)
+* [Golang で lint と test をしたい時の CircleCI の config.yml](https://medium.com/@ponde_m/golang-%E3%81%A7-lint-%E3%81%A8-test-%E3%82%92%E3%81%97%E3%81%9F%E3%81%84%E6%99%82%E3%81%AE-circleci-%E3%81%AE-config-yml-c9e85f9f14d5)
+
+## Blog
+
+書いたブログや記事など
+
+* [クラスメソッドの事業開発部にJOINした黒澤です｜クラスメソッドブログ](https://dev.classmethod.jp/etc/kurosawa-join-20180301/)
+* [\[レポート\] 『きれいなcommit, pull requestを知りたい/作りたい方のためのgit勉強会』に参加してきました｜クラスメソッドブログ](https://dev.classmethod.jp/study_meeting/git-workshop-20180327/)
+* [【レポート】Amazon Aurora Under the Hood #AWSSummit｜クラスメソッドブログ](https://dev.classmethod.jp/cloud/aws/amazon-aurora-under-the-hood-awssummit/)
+* [\[レポート\] GitHub Satellite Tokyo #GitHubSatelliteTokyo｜クラスメソッドブログ](https://dev.classmethod.jp/etc/github-satellite-tokyo-2018/)
+* [\[レポート\] What’s new with GitHub ~ GitHub as a platform #GitHubSatelliteTokyo｜クラスメソッドブログ](https://dev.classmethod.jp/event/whats-new-with-github/)
+* [\[レポート\] GitHub でポータルサイトドキュメントを運用して幸せになる話 #GitHubSatelliteTokyo｜クラスメソッドブログ](https://dev.classmethod.jp/event/github-lt-tournament-githubpages/)
+* [\[レポート\] GitHub as an Authenticator #GitHubSatelliteTokyo｜クラスメソッドブログ](https://dev.classmethod.jp/event/github-as-an-authenticator/)
+* [Git hooks を使って push を行うときに確認を出し誤 push を防止する｜クラスメソッドブログ](https://dev.classmethod.jp/tool/git/git-hook-pre-push/)
+* [Gopher道場 #3 参加レポート / 「Go Cloud を触ってみる」というテーマで LT をしました ｜ Developers.IO](https://dev.classmethod.jp/go/gopher-dojo/)
+* [無料で使える Go 言語の CI サービス『GolangCI』を使ってみる ｜ Developers.IO](https://dev.classmethod.jp/go/golangci/)
+* [【Mercari Tech Conf 2018 レポート】メルペイの進める決済処理のマイクロサービス化についてのセッション『どうして僕らは決済処理をマイクロサービス化しようとしているのか』#mtc18 ｜ DevelopersIO](https://dev.classmethod.jp/event/merpay-microservices-mtc18/)
+* [【Mercari Tech Conf 2018 レポート】メルカリのマイクロサービスプラットフォームチームの取り組みについてのセッション『Microservices Platform at Mercari』#mtc18 ｜ DevelopersIO](https://dev.classmethod.jp/event/mercari-microservices-platform-mtc18/)
+* [【Mercari Tech Conf 2018 レポート】メルカリの出品機能のモノリスからマイクロサービスへの移行についてのセッション『Listing Service: モノリスからマイクロサービスへ』#mtc18 ｜ DevelopersIO](https://dev.classmethod.jp/event/mercari-listing-from-monolith-to-microservices-mtc18/)
+* [【Mercari Tech Conf 2018 レポート】メルカリ Web の新アーキテクチャについてのセッション『Web Application as a Microservice』#mtc18 ｜ DevelopersIO](https://dev.classmethod.jp/event/mercari-web-microservice-mtc18/)
+* [GitHub Actions で Go言語の lint と test を実行する ｜ DevelopersIO](https://dev.classmethod.jp/etc/github-actions-golang/)
+
+## Speaker
+
+* 20180918
+  * [Gopher道場#3 卒業式＆LT大会](https://mercari.connpass.com/event/101178/)
+  * [Go Cloud を触ってみる / gopher-dojo-lt](https://speakerdeck.com/daikurosawa/gopher-dojo-lt)
+* 20181214
+  * [Introduction gRPC](https://speakerdeck.com/daikurosawa/introduction-grpc)
+* 20180131
+  * [Go(Un)Conference（Goあんこ）LT大会 5kg](https://gounconference.connpass.com/event/112942/)
+  * [GolangCI を使ってコードの品質を保ちながら快適な Golang 生活を送る話 #gounco / GolangCI - Speaker Deck](https://speakerdeck.com/daikurosawa/golangci)
+
 ## Study group
 
 参加した勉強会についてのメモ
@@ -70,82 +106,21 @@
   * [元 HackMD](https://hackmd.io/Ahsu5Px-QHKqoo3YBT9EWQ)
 * 20190301
   * [LINE.go #1](https://gist.github.com/d-kuro/93d54f70a605b26216b5653445412f12)
-
-## Blog
-
-書いたブログや記事など
-
-* 20180301
-  * [クラスメソッドの事業開発部にJOINした黒澤です｜クラスメソッドブログ](https://dev.classmethod.jp/etc/kurosawa-join-20180301/)
-* 20180403
-  * [\[レポート\] 『きれいなcommit, pull requestを知りたい/作りたい方のためのgit勉強会』に参加してきました｜クラスメソッドブログ](https://dev.classmethod.jp/study_meeting/git-workshop-20180327/)
-* 20180531
-  * [【レポート】Amazon Aurora Under the Hood #AWSSummit｜クラスメソッドブログ](https://dev.classmethod.jp/cloud/aws/amazon-aurora-under-the-hood-awssummit/)
-* 20180612
-  * [\[レポート\] GitHub Satellite Tokyo #GitHubSatelliteTokyo｜クラスメソッドブログ](https://dev.classmethod.jp/etc/github-satellite-tokyo-2018/)
-  * [\[レポート\] What’s new with GitHub ~ GitHub as a platform #GitHubSatelliteTokyo｜クラスメソッドブログ](https://dev.classmethod.jp/event/whats-new-with-github/)
-* 20180613
-  * [\[レポート\] GitHub でポータルサイトドキュメントを運用して幸せになる話 #GitHubSatelliteTokyo｜クラスメソッドブログ](https://dev.classmethod.jp/event/github-lt-tournament-githubpages/)
-  * [\[レポート\] GitHub as an Authenticator #GitHubSatelliteTokyo｜クラスメソッドブログ](https://dev.classmethod.jp/event/github-as-an-authenticator/)
-* 20180707
-  * [Git hooks を使って push を行うときに確認を出し誤 push を防止する｜クラスメソッドブログ](https://dev.classmethod.jp/tool/git/git-hook-pre-push/)
-* 20180919
-  * [Gopher道場 #3 参加レポート / 「Go Cloud を触ってみる」というテーマで LT をしました ｜ Developers.IO](https://dev.classmethod.jp/go/gopher-dojo/)
-* 20181002
-  * [無料で使える Go 言語の CI サービス『GolangCI』を使ってみる ｜ Developers.IO](https://dev.classmethod.jp/go/golangci/)
-* 20181004
-  * [【Mercari Tech Conf 2018 レポート】メルペイの進める決済処理のマイクロサービス化についてのセッション『どうして僕らは決済処理をマイクロサービス化しようとしているのか』#mtc18 ｜ DevelopersIO](https://dev.classmethod.jp/event/merpay-microservices-mtc18/)
-  * [【Mercari Tech Conf 2018 レポート】メルカリのマイクロサービスプラットフォームチームの取り組みについてのセッション『Microservices Platform at Mercari』#mtc18 ｜ DevelopersIO](https://dev.classmethod.jp/event/mercari-microservices-platform-mtc18/)
-* 20181005
-  * [【Mercari Tech Conf 2018 レポート】メルカリの出品機能のモノリスからマイクロサービスへの移行についてのセッション『Listing Service: モノリスからマイクロサービスへ』#mtc18 ｜ DevelopersIO](https://dev.classmethod.jp/event/mercari-listing-from-monolith-to-microservices-mtc18/)
-  * [【Mercari Tech Conf 2018 レポート】メルカリ Web の新アーキテクチャについてのセッション『Web Application as a Microservice』#mtc18 ｜ DevelopersIO](https://dev.classmethod.jp/event/mercari-web-microservice-mtc18/)
-* 20181229
-  * [GitHub Actions で Go言語の lint と test を実行する ｜ DevelopersIO](https://dev.classmethod.jp/etc/github-actions-golang/)
-
-## Speaker
-
-* 20180918
-  * [Gopher道場#3 卒業式＆LT大会](https://mercari.connpass.com/event/101178/)
-  * [Go Cloud を触ってみる / gopher-dojo-lt](https://speakerdeck.com/daikurosawa/gopher-dojo-lt)
-* 20181214
-  * [Introduction gRPC](https://speakerdeck.com/daikurosawa/introduction-grpc)
-* 20180131
-  * [Go(Un)Conference（Goあんこ）LT大会 5kg](https://gounconference.connpass.com/event/112942/)
-  * [GolangCI を使ってコードの品質を保ちながら快適な Golang 生活を送る話 #gounco / GolangCI - Speaker Deck](https://speakerdeck.com/daikurosawa/golangci)
-
-## Medium
-
-* [Go 1.11.4 以上で Go Modules を使って依存関係解決しようとしたら checksum mismatch](https://medium.com/@ponde_m/go-1-11-4-%E4%BB%A5%E4%B8%8A%E3%81%A7-go-modules-%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E4%BE%9D%E5%AD%98%E9%96%A2%E4%BF%82%E8%A7%A3%E6%B1%BA%E3%81%97%E3%82%88%E3%81%86%E3%81%A8%E3%81%97%E3%81%9F%E3%82%89-checksum-mismatch-c5528eaebd72)
-* [Golang で lint と test をしたい時の CircleCI の config.yml](https://medium.com/@ponde_m/golang-%E3%81%A7-lint-%E3%81%A8-test-%E3%82%92%E3%81%97%E3%81%9F%E3%81%84%E6%99%82%E3%81%AE-circleci-%E3%81%AE-config-yml-c9e85f9f14d5)
+* 20190308
+  * [k8s source code reading #3](https://k8s-code-reading.connpass.com/event/117941/)
+  * [これ書いてた(WIP)](https://medium.com/@ponde_m/kubernetes-cronjob-33b66ad73f71)
 
 ## Gist
 
 Gist 置き場
 
-### Kubernetes
-
 * [kubectl で補完を有効にする](https://gist.github.com/d-kuro/605a44ebd1d4a28ecf318e9d2371645f)
 * [Raft のアニメーションがめっちゃよかったというメモ](https://gist.github.com/d-kuro/f78647d2c953a65f094afed915f42fd0)
-
-### Golang
-
 * [Go 言語のセットアップをする](https://gist.github.com/d-kuro/82a9305abb3b1b89193997e6c9e0f59c)
 * [Go 1.11.4 以上で Go Modules を使って依存関係解決しようとしたら checksum mismatch](https://gist.github.com/d-kuro/3e78cba6b68d52c01b30a3b2b73b8285)
-
-### AWS
-
 * [DynamoDB Local Docker image setting heap size](https://gist.github.com/d-kuro/07992d7a149dd62a2be24cf9d23e8033)
-
-### CircleCI
-
 * [CircleCI の GitHub Checks API 対応所感](https://gist.github.com/d-kuro/19651e83549fe80e9d445e9d55b88af4)
-
-### Elasticsearch
-
 * [Elasticsearch で Index の一覧を見る](https://gist.github.com/d-kuro/d72b9331ea93b061542096e72c2a2845)
-
-### Tool
-
 * [コンフリクトしたときの --theirs と --ours](https://gist.github.com/d-kuro/08ec0964107ae4c8bc074ed8162b63cc)
 * [zsh に移行した](https://gist.github.com/d-kuro/01513087559ac4c3d305f6485c58b7ad)
 * [zsh で git コマンドの補完を有効にする](https://gist.github.com/d-kuro/352498c993c51831b25963be62074afa)
@@ -154,8 +129,5 @@ Gist 置き場
 * [RSS まとめ](https://gist.github.com/d-kuro/839dc06dcb4d8d3368b4634f96a4e0d0)
 * [fish 導入](https://gist.github.com/d-kuro/d0c5cfce385f3959bc77102f04a5a8f1)
 * [macOS でキーリピート早くする](https://gist.github.com/d-kuro/5466c4b19a34b56ea0ff7725eab623d7)
-
-### Poem
-
 * [2018年ポエム](https://gist.github.com/d-kuro/13e7d6cee08e4e7da1969836f5544591)
 * [2018-2019 冬休みの進捗](https://gist.github.com/d-kuro/9bb545b4a1c735d852e9a1fb29ba3c5b)
