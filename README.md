@@ -7,16 +7,14 @@
 * [GitHub Pages link](https://d-kuro.github.io/record/)
 * [Manual](./manual/README.md)
 
-## Medium
-
-* [Go 1.11.4 以上で Go Modules を使って依存関係解決しようとしたら checksum mismatch](https://medium.com/@ponde_m/go-1-11-4-%E4%BB%A5%E4%B8%8A%E3%81%A7-go-modules-%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E4%BE%9D%E5%AD%98%E9%96%A2%E4%BF%82%E8%A7%A3%E6%B1%BA%E3%81%97%E3%82%88%E3%81%86%E3%81%A8%E3%81%97%E3%81%9F%E3%82%89-checksum-mismatch-c5528eaebd72)
-* [Golang で lint と test をしたい時の CircleCI の config.yml](https://medium.com/@ponde_m/golang-%E3%81%A7-lint-%E3%81%A8-test-%E3%82%92%E3%81%97%E3%81%9F%E3%81%84%E6%99%82%E3%81%AE-circleci-%E3%81%AE-config-yml-c9e85f9f14d5)
-
 ## Blog
 
-書いたブログや記事など
+こっちをメインにしていきたい
 
-* [クラスメソッドの事業開発部にJOINした黒澤です｜クラスメソッドブログ](https://dev.classmethod.jp/etc/kurosawa-join-20180301/)
+[あふん | Hatena Blog](https://ponde-m.hatenablog.com/)
+
+### 会社で書いたブログなど
+
 * [\[レポート\] 『きれいなcommit, pull requestを知りたい/作りたい方のためのgit勉強会』に参加してきました｜クラスメソッドブログ](https://dev.classmethod.jp/study_meeting/git-workshop-20180327/)
 * [【レポート】Amazon Aurora Under the Hood #AWSSummit｜クラスメソッドブログ](https://dev.classmethod.jp/cloud/aws/amazon-aurora-under-the-hood-awssummit/)
 * [\[レポート\] GitHub Satellite Tokyo #GitHubSatelliteTokyo｜クラスメソッドブログ](https://dev.classmethod.jp/etc/github-satellite-tokyo-2018/)
