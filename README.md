@@ -107,6 +107,10 @@
 * 20190308
   * [k8s source code reading #3](https://k8s-code-reading.connpass.com/event/117941/)
   * [これ書いてた(WIP)](https://medium.com/@ponde_m/kubernetes-cronjob-33b66ad73f71)
+* 20190329
+  * [Cloud Native Meetup Tokyo #7 @Abema Towers](https://gist.github.com/d-kuro/08c0e50347da96ef0727e3ab1a869483)
+* 20190403
+  * [OpenCensus meetup vol.1](https://ponde-m.hatenablog.com/entry/2019/04/05/002644)
 
 ## Gist
 
