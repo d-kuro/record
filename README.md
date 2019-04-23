@@ -111,6 +111,8 @@
   * [Cloud Native Meetup Tokyo #7 @Abema Towers](https://gist.github.com/d-kuro/08c0e50347da96ef0727e3ab1a869483)
 * 20190403
   * [OpenCensus meetup vol.1](https://ponde-m.hatenablog.com/entry/2019/04/05/002644)
+* 20190422
+  * [Kubernetes Meetup Tokyo #18](https://gist.github.com/d-kuro/0d0b2359e0323d6bbfd328209fc90174)
 
 ## Gist
 
