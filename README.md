@@ -113,6 +113,8 @@
   * [OpenCensus meetup vol.1](https://ponde-m.hatenablog.com/entry/2019/04/05/002644)
 * 20190422
   * [Kubernetes Meetup Tokyo #18](https://gist.github.com/d-kuro/0d0b2359e0323d6bbfd328209fc90174)
+* 20190519
+  * [Go Conference 2019 Spring](https://gist.github.com/d-kuro/06e82a1ad287c197dedb178f5d928ffd)
 
 ## Gist
 
