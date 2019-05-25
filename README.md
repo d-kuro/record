@@ -122,6 +122,7 @@
 
 Gist 置き場
 
+* [GitHub で Fork 元の更新を取り込む](https://gist.github.com/d-kuro/dcb43961c21a546e47f5f45361c03701)
 * [kubectl で補完を有効にする](https://gist.github.com/d-kuro/605a44ebd1d4a28ecf318e9d2371645f)
 * [Raft のアニメーションがめっちゃよかったというメモ](https://gist.github.com/d-kuro/f78647d2c953a65f094afed915f42fd0)
 * [Go 言語のセットアップをする](https://gist.github.com/d-kuro/82a9305abb3b1b89193997e6c9e0f59c)
