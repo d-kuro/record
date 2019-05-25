@@ -115,6 +115,8 @@
   * [Kubernetes Meetup Tokyo #18](https://gist.github.com/d-kuro/0d0b2359e0323d6bbfd328209fc90174)
 * 20190519
   * [Go Conference 2019 Spring](https://gist.github.com/d-kuro/06e82a1ad287c197dedb178f5d928ffd)
+* 20190522
+  * [Mercari Meetup for Microservices Platform #2](https://gist.github.com/d-kuro/25db7cd78509a1fee829a59aea1adbd5#mercari-meetup-for-microservices-platform-2)
 
 ## Gist
 
