@@ -115,11 +115,14 @@
   * [Kubernetes Meetup Tokyo #18](https://gist.github.com/d-kuro/0d0b2359e0323d6bbfd328209fc90174)
 * 20190519
   * [Go Conference 2019 Spring](https://gist.github.com/d-kuro/06e82a1ad287c197dedb178f5d928ffd)
+* 20190522
+  * [Mercari Meetup for Microservices Platform #2](https://gist.github.com/d-kuro/25db7cd78509a1fee829a59aea1adbd5#mercari-meetup-for-microservices-platform-2)
 
 ## Gist
 
 Gist 置き場
 
+* [GitHub で Fork 元の更新を取り込む](https://gist.github.com/d-kuro/dcb43961c21a546e47f5f45361c03701)
 * [kubectl で補完を有効にする](https://gist.github.com/d-kuro/605a44ebd1d4a28ecf318e9d2371645f)
 * [Raft のアニメーションがめっちゃよかったというメモ](https://gist.github.com/d-kuro/f78647d2c953a65f094afed915f42fd0)
 * [Go 言語のセットアップをする](https://gist.github.com/d-kuro/82a9305abb3b1b89193997e6c9e0f59c)
