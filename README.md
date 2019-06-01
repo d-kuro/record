@@ -40,6 +40,12 @@
 * 20180131
   * [Go(Un)Conference（Goあんこ）LT大会 5kg](https://gounconference.connpass.com/event/112942/)
   * [GolangCI を使ってコードの品質を保ちながら快適な Golang 生活を送る話 #gounco / GolangCI - Speaker Deck](https://speakerdeck.com/daikurosawa/golangci)
+* 20190527
+  * [Go(Un)Conference（Goあんこ）LT大会 6kg](https://gounconference.connpass.com/event/129090/)
+  * [Kubernetes のソースコードとの付き合い方 #gounco / Kubernetes source code reading](https://speakerdeck.com/daikurosawa/kubernetes-source-code-reading)
+* 20190531
+  * [Kubernetes Meetup Tokyo 19 (Yahoo! JAPAN MEETUP共催)](https://k8sjp.connpass.com/event/126207/)
+  * [図で理解する Descheduler #k8sjp #ymju / Introduction to Descheduler](https://speakerdeck.com/daikurosawa/introduction-to-descheduler)
 
 ## Study group
 
@@ -122,6 +128,7 @@
 
 Gist 置き場
 
+* [GitHub で Fork 元の更新を取り込む](https://gist.github.com/d-kuro/dcb43961c21a546e47f5f45361c03701)
 * [kubectl で補完を有効にする](https://gist.github.com/d-kuro/605a44ebd1d4a28ecf318e9d2371645f)
 * [Raft のアニメーションがめっちゃよかったというメモ](https://gist.github.com/d-kuro/f78647d2c953a65f094afed915f42fd0)
 * [Go 言語のセットアップをする](https://gist.github.com/d-kuro/82a9305abb3b1b89193997e6c9e0f59c)
