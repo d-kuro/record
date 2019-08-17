@@ -29,6 +29,8 @@
 * [【Mercari Tech Conf 2018 レポート】メルカリの出品機能のモノリスからマイクロサービスへの移行についてのセッション『Listing Service: モノリスからマイクロサービスへ』#mtc18 ｜ DevelopersIO](https://dev.classmethod.jp/event/mercari-listing-from-monolith-to-microservices-mtc18/)
 * [【Mercari Tech Conf 2018 レポート】メルカリ Web の新アーキテクチャについてのセッション『Web Application as a Microservice』#mtc18 ｜ DevelopersIO](https://dev.classmethod.jp/event/mercari-web-microservice-mtc18/)
 * [GitHub Actions で Go言語の lint と test を実行する ｜ DevelopersIO](https://dev.classmethod.jp/etc/github-actions-golang/)
+* [Kubernetes で Deployment のローリングアップデートを実現する 『kubectl rollout restart』コマンドをソースコードから解説 ｜ DevelopersIO](https://dev.classmethod.jp/etc/kubectl-rollout-restart/)
+* [Kubernetes Meetup Tokyo 21 で 『Argo CD 実践ガイド』というタイトルで LT をしました #k8sjp ｜ DevelopersIO](https://dev.classmethod.jp/etc/k8smeetup-argocd/)
 
 ## Speaker
 
