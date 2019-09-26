@@ -125,6 +125,8 @@
   * [Go Conference 2019 Spring](https://gist.github.com/d-kuro/06e82a1ad287c197dedb178f5d928ffd)
 * 20190522
   * [Mercari Meetup for Microservices Platform #2](https://gist.github.com/d-kuro/25db7cd78509a1fee829a59aea1adbd5#mercari-meetup-for-microservices-platform-2)
+* 20191026
+  * [Cloud Native Meetup Tokyo #10](https://gist.github.com/d-kuro/ed50a114f42b412f5fb9de1f564e6319)
 
 ## Gist
 
