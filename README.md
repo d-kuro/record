@@ -5,7 +5,6 @@
 勉強会の参加レポートやブログに書くまでもないメモだったりをローカルの肥やしにすることなく公開しましょう。書いたものは GitHub Page にて公開されます。
 
 * [GitHub Pages link](https://d-kuro.github.io/record/)
-* [Manual](./manual/README.md)
 
 ## Blog
 
